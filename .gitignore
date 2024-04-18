@@ -1,0 +1,5 @@
+.env
+chunk_embeddings.csv
+chunks_data.csv
+vectordb
+/.env
