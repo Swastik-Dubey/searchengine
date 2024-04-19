@@ -50,4 +50,4 @@ This project focuses on enhancing the relevance and accuracy of search results f
 
 ---
 Feel free to reach out for any questions or suggestions! 🚀
-```
+
