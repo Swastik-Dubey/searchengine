@@ -44,7 +44,7 @@ This project focuses on enhancing the relevance and accuracy of search results f
 
 
 ## Credits:
-- Project developed by [Swastik-Dubey](https://github.com/Swastik-Dubey) and [Teammate's Name] during internship at Innomatics Research Labs.
+- Project developed by [Swastik-Dubey](https://github.com/Swastik-Dubey) and [Anu0907](https://github.com/Anu0907) during internship at Innomatics Research Labs.
 - Special thanks to the team at Innomatics Research Labs for their guidance and support.
 
 
